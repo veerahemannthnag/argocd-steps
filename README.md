@@ -59,4 +59,4 @@ https://www.digitalocean.com/community/tutorials/how-to-deploy-to-kubernetes-usi
 https://medium.com/geekculture/create-a-new-user-in-argocd-using-the-cli-and-configmap-8cbb27cf5904  
 https://github.com/argoproj/argo-cd/releases  
 https://www.opsmx.com/blog/getting-started-with-multi-cluster-k8s-deployments-using-argo-cd  
-
+https://cloud.google.com/blog/products/containers-kubernetes/building-a-fleet-with-argocd-and-gke  
