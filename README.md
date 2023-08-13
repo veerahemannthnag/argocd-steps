@@ -50,3 +50,12 @@ argocd account list
 Adding policy to new user to access application which are created using admin user  
 Add Below to configmap argocd-rbac-cm  
 p, argouser, applications, action/apps/Deployment/restart, default/*, allow  
+
+
+References:  
+https://medium.com/google-cloud/configuring-argocd-on-gke-with-ingress-and-github-sso-bf7868942403  
+https://github.com/GoogleCloudPlatform/gke-poc-toolkit-demos/tree/main/gke-fleets-with-argocd#fleet-cluster-setup  
+https://www.digitalocean.com/community/tutorials/how-to-deploy-to-kubernetes-using-argo-cd-and-gitops  
+https://medium.com/geekculture/create-a-new-user-in-argocd-using-the-cli-and-configmap-8cbb27cf5904  
+https://github.com/argoproj/argo-cd/releases  
+
